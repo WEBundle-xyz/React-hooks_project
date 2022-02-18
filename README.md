@@ -10,7 +10,7 @@
 
 [5 - useEffect - load data from Firebase ](../../tree/b365b5753286e0cc0d09b0a0cb4c280dfb53da34/)
 
-[6 - Empty ](../../tree//)
+[6 - Firebase CRUD operations ](../../tree/8929e7ece0d7edba9d3c87a55f0ceb6bb861d2fb/)
 
 [7 - Empty ](../../tree//)
 
